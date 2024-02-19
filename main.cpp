@@ -9,6 +9,7 @@ using namespace std;
 int main() {
     string numS;
     double num;
+
     try {
         cout << "Введіть довжину сторони куба: ";
         cin >> numS;
